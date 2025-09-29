@@ -1,3 +1,3 @@
 Vídeo de Juego (Visualización)
 
-<img src=„Juego.gif" ancho="300" alt="Video animado" />
+<img src="Juego.gif" width="300" alt="Video animado" />
